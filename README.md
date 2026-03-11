@@ -46,7 +46,7 @@
 
 ```bash
 # 进入项目目录
-cd mbti-test
+cd mbti-personality-test
 
 # 启动本地服务器
 python3 -m http.server 8080
@@ -58,7 +58,7 @@ python3 -m http.server 8080
 ## 📁 项目结构
 
 ```
-mbti-test/
+mbti-personality-test/
 ├── index.html          # 主页面文件
 ├── mbti.js            # JavaScript逻辑和数据
 └── README.md          # 项目说明文档
