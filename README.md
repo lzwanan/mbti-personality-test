@@ -160,9 +160,13 @@ mbti-test/
 ---
 
 <div align="center">
+---
 
-Made with ❤️ by [魔魔胡胡胡萝卜]
+<div align="center">
 
-[⭐ Star](https://github.com/yourusername/mbti-test) | [🍴 Fork](https://github.com/yourusername/mbti-test/fork) | [📝 Report Issue](https://github.com/yourusername/mbti-test/issues)
+Made with ❤️ by [lzwanan](https://github.com/lzwanan)
+lzwanan@outlook.com
+
+[⭐ Star](https://github.com/lzwanan/mbti-personality-test) | [🍴 Fork](https://github.com/lzwanan/mbti-personality-test/fork) | [📝 Report Issue](https://github.com/lzwanan/mbti-personality-test/issues)
 
 </div>
